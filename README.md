@@ -14,4 +14,4 @@ This would then mean that your files are split up. As a result, they're easier t
 
 ## Considerations: 
 
-If you use a wild card ( * ), however, then you'll lose the benefit of having a single default export. Using the single default export and incorporating specific functions makes your code more clear and it means that you're only importing the things that you need. This is why you'll see the wild card import discouraged in many style guides.
+If you use a wild card ( * ), you'll lose the benefit of having a single default export. Using the single default export and incorporating specific functions makes your code more clear and it means that you're only importing the things that you need. This is why you'll see the wild card import discouraged in many style guides.
